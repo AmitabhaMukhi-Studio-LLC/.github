@@ -76,4 +76,4 @@ AmitabhaMukhi Studio LLC is an independent consumer software and open scientific
 
 ## 4. License
 Copyright © 2026 AmitabhaMukhi Studio LLC.  
-Licensed under the Apache License, Version 2.0 (the "License").
+Proprietary. All Rights Reserved.
