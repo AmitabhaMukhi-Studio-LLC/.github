@@ -68,7 +68,7 @@ AmitabhaMukhi Studio LLC is an independent consumer software and open scientific
 | :--- | :--- | :--- |
 | **Principal Researcher** | AmitabhaMukhi Vipaseni ([ORCID: 0009-0002-7454-3895](https://orcid.org/0009-0002-7454-3895)) | Verified Active |
 | **Zenodo Open Archive** | [zenodo.org/communities/amitabhamukhistudio](https://zenodo.org/communities/amitabhamukhistudio) | Draft Community Deposit |
-| **Source Code Registry** | [github.com/AmitabhaMukhi-Studio-LLC](https://github.com/AmitabhaMukhi-Studio-LLC) | Public / Apache 2.0 |
+| **Source Code Registry** | [github.com/AmitabhaMukhi-Studio-LLC](https://github.com/AmitabhaMukhi-Studio-LLC) | Proprietary |
 | **Official Contact** | `contact@amitabhamukhistudio.com` | Primary Inquiries Desk |
 | **Location** | Albuquerque, New Mexico, USA | Registered Entity |
 
